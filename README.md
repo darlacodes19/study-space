@@ -1,1 +1,1 @@
-# study-space
+# Study Space
