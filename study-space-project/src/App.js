@@ -1,10 +1,15 @@
-
 import './App.css';
+import Pomodoro from './components/Pomodoro';
+import Settings from './components/Settings';
+
 
 function App() {
+  
+
   return (
     <div className="App">
-      <h1> Welcome </h1>
+      <Settings/>
+      <Pomodoro />
     </div>
   );
 }
